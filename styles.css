@@ -117,8 +117,10 @@
 .second-page {
     margin-left: -31px;
     background: #F2F2F2;
-    margin-top: 178px;
-    display: flex;  
+}
+.block-one {
+     margin-top: 178px;
+    display: flex; 
 }
 .content-s-p {
     margin: 140px 0px 37px 102px;
@@ -143,5 +145,136 @@
     line-height: 25px;
     letter-spacing: 0.22px;
     cursor: pointer;
-    padding:20px 30px; 
+    padding:20px 30px;
+    
+}
+.block-tow {
+    margin-top: 151px;
+    background: #F2F2F2;
+    margin-left: 360px;
+    
+}
+.h-t-p {
+    font-size: 42px;
+    line-height: 49px;
+    letter-spacing: 0.5px;
+}
+.clients {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 68px;
+    
+    
+}
+.text-client-1 {
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.22px;
+    margin: 36px 50px 0px 45px;
+     
+}
+.c1-content {
+    display: flex;
+    align-items: center;
+    
+    
+}
+.client1-name {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.19px;
+    margin: 50px 45px 50px 19px;
+}
+.client1-img {
+    margin-left: 45px;
+    
+}
+.stars {
+    margin-top: 50;
+    margin-left: 45;
+}
+.star {
+    margin-right: 8px;
+}
+.client {
+    margin-right: 30px;
+    background-color: white;
+    Width: 380px;
+    Height: 427px;
+}
+.third-page {
+    background-color: rgba(234, 239, 245, 1);
+    margin-top: -120px;
+    height: 1110px;
+
+}
+.content-3-1-p {
+    margin-left: 360px;
+    
+}
+.statistic-0 {
+    display: flex;
+    margin-top: 67px;
+    margin-left: 112px;
+    padding-top: 132px;
+    
+    
+    
+}
+.content {
+    margin-right: 10px;
+}
+.rectangle-1 {
+     margin-right: 20px;
+    
+}
+.rectangle-2 {
+     margin-right: 20px;
+    
+}
+.statistic-1 {
+    font-size: 19px;
+    line-height: 56px;
+    letter-spacing: 0.23px;
+}
+.statistic-2 {
+    font-size: 19px;
+    line-height: 56px;
+    letter-spacing: 0.23px;
+}
+.content-3-2-p {
+    display: flex;
+}
+.h-3-p {
+    font-size: 42px;
+    line-height: 49px;
+    letter-spacing: 0.5px;
+    margin: 209px 231px 50px 0px;
+}
+.p-3-p {
+    font-size: 12px;
+    line-height: 28px;
+    letter-spacing: 0.22px;
+    
+}
+.p-3-2-p {
+    font-size: 12px;
+    line-height: 28px;
+    letter-spacing: 0.22px;
+    margin-top: 22px;
+    margin-bottom: 28px;
+    
+}
+.cta-3-p {
+    background-color: rgba(255, 207, 38, 1);
+    border: 0.5px ;
+    border-radius: 5px;
+    color: black;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.22px;
+    cursor: pointer;
+    padding:20px 30px;
+    margin-right: 645px;
 }
