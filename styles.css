@@ -278,3 +278,51 @@
     padding:20px 30px;
     margin-right: 645px;
 }
+.forth-page {
+    background-color: #ffffff;
+    text-align: center;
+    padding-top: 01;
+    height: 828px;
+}
+}
+.h-f-p {
+    font-size: 42px;
+    line-height: 483px;
+    letter-spacing: 0.5px;
+    margin-top: 139px;
+    
+    
+}
+.p-f-p {
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.22px;
+    margin-top: 24px;
+    
+    
+}
+.img-safari-page {
+    position: absolute;
+}
+.safari-3 {
+    position: absolute;
+    top: 162px;
+    left: 757px;
+    
+}
+.safari-2 {
+    position: absolute;
+    top: 162px;
+    left: 360px;
+}
+.safari-1 {
+    position: absolute;
+    top: 45px;
+    left: 463px;
+}
+.fifth-page {
+    background: #F2F2F2;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
